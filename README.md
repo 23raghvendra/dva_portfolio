@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Anuj Upadhyay
+# 👋 Hi, I'm Raghvendra Singh
 
-AI/ML Engineer and aspiring data scientist passionate about transforming complex data into actionable insights. Experienced in machine learning, data analysis, and full-stack development.
+Data & Visual Analytics enthusiast passionate about transforming complex data into actionable insights. Experienced in machine learning, data analysis, and full-stack development.
 
 ---
 
 ## 🌐 Portfolio
 
-🔗 [View My Portfolio](https://anuj-two.vercel.app/)
+🔗 [View My Portfolio](https://dva-portfolio-eosin.vercel.app/)
 
 ---
 
@@ -47,7 +47,8 @@ Analyzed used car resale prices across multiple Indian cities with 179,490 recor
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/anuj-upadhyay-a8455b30b/
-- GitHub: https://github.com/Anuj192006
-- Email: anuj.upadhyay2024@nst.rishihood.edu.in
-- Portfolio: https://anuj-two.vercel.app/
+- 📍 Location: Ajmer, Rajasthan
+- 📞 Phone: +91 7300026329
+- 💼 LinkedIn: https://www.linkedin.com/in/raghvendra-singh-727804380/
+- 🐙 GitHub: https://github.com/23raghvendra
+- 🌐 Portfolio: https://dva-portfolio-eosin.vercel.app/
