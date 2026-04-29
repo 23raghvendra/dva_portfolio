@@ -73,16 +73,16 @@ export default function App() {
       {/* SIDEBAR */}
       <div className="w-[300px] p-6 border-r border-gray-800 flex flex-col items-center">
         <img
-          src={`${baseURL}ANUJ.png`}
+          src={`${baseURL}raghvendra.png`}
           alt="Profile"
           className="w-40 h-40 rounded-full mb-4"
         />
 
-        <h2 className="text-xl font-bold">Anuj Upadhyay</h2>
-        <p className="text-gray-400">@Anuj192006</p>
+        <h2 className="text-xl font-bold">Raghvendra Singh</h2>
+        <p className="text-gray-400">@23raghvendra</p>
 
         <p className="text-gray-400 text-sm text-center mt-3 leading-relaxed">
-          AI/ML Engineer and aspiring data scientist. Passionate about
+          Data & Visual Analytics enthusiast. Passionate about
           transforming data into actionable insights and building intelligent
           systems.
         </p>
@@ -94,7 +94,7 @@ export default function App() {
         {/* SOCIAL */}
         <div className="flex gap-3 w-full mt-3">
           <a
-            href="https://www.linkedin.com/in/anuj-upadhyay-a8455b30b/"
+            href="https://www.linkedin.com/in/raghvendra-singh-727804380/"
             target="_blank"
             className="flex-1 bg-[#161b22] border border-gray-700 py-2 rounded text-center"
           >
@@ -102,7 +102,7 @@ export default function App() {
           </a>
 
           <a
-            href="https://github.com/Anuj192006"
+            href="https://github.com/23raghvendra"
             target="_blank"
             className="flex-1 bg-[#161b22] border border-gray-700 py-2 rounded text-center"
           >
@@ -116,37 +116,27 @@ export default function App() {
         <div className="w-full text-gray-300 text-sm space-y-4">
           <div className="flex items-center gap-3">
             <FaMapMarkerAlt className="text-lg text-gray-400 flex-shrink-0" />
-            <span>Mumbai, Maharashtra</span>
-          </div>
-
-          <div className="flex items-center gap-3">
-            <FaEnvelope className="text-lg text-gray-400 flex-shrink-0" />
-            <a
-              href="mailto:anuj.upadhyay2024@nst.rishihood.edu.in"
-              className="text-blue-400 hover:text-blue-300 break-all"
-            >
-              anuj.upadhyay2024@nst.rishihood.edu.in
-            </a>
+            <span>Ajmer, Rajasthan</span>
           </div>
 
           <div className="flex items-center gap-3">
             <FaPhone className="text-lg text-gray-400 flex-shrink-0" />
             <a
-              href="tel:+918604068920"
+              href="tel:+917300026329"
               className="text-blue-400 hover:text-blue-300"
             >
-              +91 8604068920
+              +91 7300026329
             </a>
           </div>
 
           <div className="flex items-start gap-3">
             <FaLink className="text-lg text-gray-400 flex-shrink-0 mt-0.5" />
             <a
-              href="https://anuj-two.vercel.app"
+              href="https://www.linkedin.com/in/raghvendra-singh-727804380/"
               target="_blank"
               className="text-blue-400 hover:text-blue-300 break-all"
             >
-              anuj-two.vercel.app
+              linkedin.com/in/raghvendra-singh
             </a>
           </div>
         </div>
